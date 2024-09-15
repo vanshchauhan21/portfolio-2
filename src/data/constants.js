@@ -187,15 +187,14 @@ export const experiences = [
     role: "Frontend Intern",
     company:"Xtrude Engineers pvt Ltd, Noida" ,
     date: "Jan2024- Jan2024 (Remote site)",
-    desc: " In Front-end training I learned various technologies and tools to create and manage the user interface of development projects. Programming languages (HTML, CSS, JavaScript, jQuery), Frameworks, CSS Preprocessor."
-      "HTML5",
+    desc: " In Front-end training I learned various technologies and tools to create and manage the user interface of development projects. Programming languages (HTML, CSS, JavaScript, jQuery), Frameworks, CSS Preprocessor.",
+    skills: [  "HTML5",
       "CSS",
       "JavaScript",
       "Bootstrap",
       "Figma",
       "Canva",
-      
-    ],  
+      ],  
     doc: "",
   },
   
