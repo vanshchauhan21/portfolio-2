@@ -8,7 +8,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/assistant0307",
-  resume:"https://drive.google.com/file/d/1bnrSf4SUSEUfOYsUfx-mQt1q0wqc1PAn/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1T--YUOWnIfuFhzdfedl89UEwYYEfp0Gi/view?usp=drivesdk",
   certi:"https://drive.google.com/file/d/1N1PmKnBY-a0fKAdChjQlN9hNxGyYxQm4/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ritika-rajput-7543b1290/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   insta: "https://www.instagram.com/ritikarajput63",
@@ -169,8 +169,8 @@ export const experiences = [
   {
     id: 0,
     img: "",
-    role: "Frontend Intern",
-    company: "Xtrude Engineers pvt Ltd, Noida",
+    role: "Java intern",
+    company: "Internpe ",
     date: "Sep 2023- Oct 2023 (On site) ",
     desc: "In Java internship I set that a deep understanding of the Java language itself. This includes mastery overobjectoriented programming (OOP) principles, data structures, algorithms, and the Java Standard Edition (SE)API. This internship has been a significant step in my journey towards becoming a proficient software developer•I want to extend my sincere gratitude to internpe for their invaluable guidance and support throughout thisjourney. This internship has been a tremendous learning experience, I’m excited my growth in the world ofJava development",
     skills: [
@@ -184,16 +184,16 @@ export const experiences = [
   {
     id: 1,
     img: "",
-    role: "Java intern",
-    company: "Internpe ",
+    role: "Frontend Intern",
+    company:"Xtrude Engineers pvt Ltd, Noida" ,
     date: "Jan2024- Jan2024 (Remote site)",
-    desc: "Completed a Industrial Artificial Intelligence (AI)  with Cloud Computing under TechSaksham.This Program a collaborative CSR effort between Microsoft and SAP implemented by Edunet Fsoundation",
-    skills: [
-      "python",
-      "Google cloud",
-      "AWS",
-      "Power BI",
-      "VMware"
+    desc: " In Front-end training I learned various technologies and tools to create and manage the user interface of development projects. Programming languages (HTML, CSS, JavaScript, jQuery), Frameworks, CSS Preprocessor."
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Figma",
+      "Canva",
       
     ],  
     doc: "",
@@ -232,7 +232,7 @@ export const education = [
   {
     id: 0,
     img: "https://aktu.ac.in/images/logo.png",
-    school: "DR.A.P.J Abdul Kalam Technical University (KSVCEM,Bijnor) ",
+    school: "DR.A.P.J Abdul Kalam Technical University (R.V. Institute of Technology Bijnor) ",
     date: "Oct 2021 - Sep 2025",
     grade: "8.00 CGPA",
     desc: "Currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE), currently in the Final Year, with a commendable CGPA of 8.00 at AKTU (Dr. A.P.J. Abdul Kalam Technical University), affiliated with KSVCEM (Kunwar SAtiya Vira College of Enginnering and mnagement ), positioning myself at the forefront of technological education and innovation.",
@@ -243,18 +243,18 @@ export const education = [
     img: "https://img.freepik.com/premium-vector/triangle-shape-avn-letter-logo-design_1054283-1425.jpg?w=2000",
     school: "A.V.N Inter College, Kiratpur , BIJNOR",
     date: "Apr 2019 - Apr 2021",
-    grade: "78%",
-    desc: "Successfully completed 12th grade with an outstanding 78% grade in the PCM (Physics, Chemistry, Mathematics) stream from CBSE board at A.V.N Inter College, Kiratpur. Exhibited proficiency in complex scientific and mathematical concepts while maintaining a strong academic record. Demonstrated disciplined study habits and a commitment to academic excellence, laying a robust groundwork for future educational and career aspirations.",
-    degree: "CBSCE(X) ",
+    grade: "84%",
+    desc: "Successfully completed 12th grade with an outstanding 84% grade in the PCM (Physics, Chemistry, Mathematics) stream from CBSE board at A.V.N Inter College, Kiratpur. Exhibited proficiency in complex scientific and mathematical concepts while maintaining a strong academic record. Demonstrated disciplined study habits and a commitment to academic excellence, laying a robust groundwork for future educational and career aspirations.",
+    degree: "UP BOARD (X) ",
   },
   {
     id: 2,
     img: "https://img.freepik.com/premium-vector/triangle-shape-avn-letter-logo-design_1054283-1425.jpg?w=2000",
     school: "A.V.N Inter College, Kiratpur , BIJNOR",
     date: "Apr 2017 - Apr 2019",
-    grade: "84%",
-    desc: "Successfully completed 10th grade with a commendable 84% grade from CBSE board at A.V.N Inter College, Kiratpur. Demonstrated strong academic performance and dedication to excellence in studies. Developed foundational skills in various subjects, setting a solid platform for future academic and professional pursuits.",
-    degree: "CBSCE(XII),PCM", 
+    grade: "78%",
+    desc: "Successfully completed 10th grade with a commendable 78% grade from CBSE board at A.V.N Inter College, Kiratpur. Demonstrated strong academic performance and dedication to excellence in studies. Developed foundational skills in various subjects, setting a solid platform for future academic and professional pursuits.",
+    degree: "UP BOARD (XII),PCM", 
   },
 ];
 
