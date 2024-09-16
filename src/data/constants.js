@@ -259,27 +259,6 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
-    title: "ATSResume Maker",
-    date: "Jan 2024 - Dec 2023",
-    description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-    image:
-    "https://github.com/assistant0307/ATSResume/blob/main/public/assets/Screenshot%20(7).png?raw=true",
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
-    ],
-    category: "web app",
-    github: "https://github.com/assistant0307/ATSResume.git",
-    webapp: "https://ats-resume-one.vercel.app/",
-    
-  },
-  {
     id: 9,
     title: "Food ordering system",
     date: "oct 2023 - April 2024",
@@ -305,21 +284,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/assistant0307/",
     webapp: "https://github.com/assistant0307/",
-    
-  },
-  
-  {
-    id: 2,
-    title: "Shoes Store",
-    date: "Jan 2024 - feb 2024",
-    description:
-      "An online shoe store is a digital marketplace or a website where individuals can browse, select, and purchase various types of shoes from the comfort of their own home. These stores offer a wide range of footwear, including sneakers, formal shoes, sandals, and more, from multiple brands and designers.",
-    image:
-      "https://github.com/assistant0307/Shoes-Store-/blob/main/Screenshot%20(22).png?raw=true",
-    tags: ["javascript"," html5","css"],
-    category: "web app",
-    github: "hhttps://github.com/assistant0307",
-    webapp: "https://shoes-store-virid-six.vercel.app/",
     
   },
   
