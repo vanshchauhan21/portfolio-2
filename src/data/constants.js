@@ -1,4 +1,4 @@
-export const Bio = {
+ export const Bio = {
   name: "Ritika Rajput",
   roles: [
     "Full Stack Developer",
